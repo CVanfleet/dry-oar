@@ -1,18 +1,17 @@
-# My cool website
+# Welcome to WDD 100 -- Introduction to Web Design and Development
 
-This file describes your project to the community. What's your cool website about? What makes it special?
+You should use this as a starting point to begin the course.
 
-ヽ(๏∀๏ )ﾉ
 
 ## ← index.html
 
-Where you'll write the content of your website. 
+Where you'll write the content of your website. You will use this through the whole course
 
 ## ← styles.css
 
 CSS files add styling rules to your content
 
-## ← script.js
+## ← positioning.html and positionstyle.css
 
-If you're feeling fancy you can add interactivity to your site with Javascript
+These files will be used later in the semester.  You can ignore them until then (or poke around and see if you can follow what is going on there ;) Just dont's change them until you are instructed!)
 
