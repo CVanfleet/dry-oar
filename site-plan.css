@@ -4,7 +4,7 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
 
 :root {
-  /* change the values below to your colors for your palette */
+  /* change the values below to your colors from your palette */
   --primary-color: #396E94;
   --secondary-color: #E7C24F;
   --accent1-color: #A43312;
@@ -51,9 +51,6 @@ p {
   color: var(--paragraph-color);
   padding: 1em;
 }
-
-
-
 
 .colors {
   width: 100%;
