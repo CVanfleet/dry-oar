@@ -107,3 +107,25 @@ nav a:hover {
   color: var(--nav-hover-link-color);
   background-color: var(--nav-hover-background-color);
 }
+
+.sitemap {
+  display: grid;
+  justify-content: center;
+  
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 3em 3em;
+  grid-template-areas: ". home ."
+                       "page2 . page3";
+}
+.sitemap > div {
+  background-color: #999;
+}
+.sm-home {
+  grid-area: home;
+}
+.sm-page2 {
+  grid-area: page2;
+}
+.sm-page3 {
+  grid-area: page3;
+}
