@@ -1,3 +1,49 @@
-{"name":"drag-in-files.svg","date":"2016-10-22T16:17:49.954Z","url":"https://cdn.hyperdev.com/drag-in-files.svg","type":"image/svg","size":7646,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/drag-in-files.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(102, 153, 205)","uuid":"adSBq97hhhpFNUna"}
-{"name":"click-me.svg","date":"2016-10-23T16:17:49.954Z","url":"https://cdn.hyperdev.com/click-me.svg","type":"image/svg","size":7116,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/click-me.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(243, 185, 186)","uuid":"adSBq97hhhpFNUnb"}
-{"name":"paste-me.svg","date":"2016-10-24T16:17:49.954Z","url":"https://cdn.hyperdev.com/paste-me.svg","type":"image/svg","size":7242,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/paste-me.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(42, 179, 185)","uuid":"adSBq97hhhpFNUnc"}
+<!doctype html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site Plan</title>
+    <link type="text/css" rel="stylesheet" href="../css/courses.css">
+</head>
+
+<body>
+    <header>
+        <h1>[Dry Oar] Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+        <!-- In the header above, add your name and class number. For example if you are in section 3 you would put WDD 100.03 -->
+    </header>
+    <main>
+
+        <h2>Overview</h2>>
+        <hr>
+        <h3>Purpose</h3>
+        <p>[Your purpose here]</h2>
+        
+
+        <h3>Audience</h2>
+        <p>[Your audience here]</p>
+        
+
+        <h2>Branding</h2>
+        <h3>Website Logo</h3>
+        <!-- You are not required to use this logo for your site…but you must have a logo for your website.  I can offer additional logos to use, or you can create your own-->
+        <img src="" alt="Logo image">
+        <h2>
+
+ 
+
+    </main>
+
+   
+
+
+</body>
+
+{"name":"image.png","date":"2018-05-30T18:06:56.277Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":3937,"imageWidth":432,"imageHeight":32,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":25,"dominantColor":null,"uuid":"1SAIIiwAZui8eVRk"}
+{"uuid":"1SAIIiwAZui8eVRk","deleted":true}
+{"name":"image.png","date":"2018-05-30T18:07:28.124Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":3937,"imageWidth":432,"imageHeight":32,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":25,"dominantColor":null,"uuid":"y6A4vpwPSmWHjIlB"}
+{"uuid":"y6A4vpwPSmWHjIlB","deleted":true}
+{"name":"image.png","date":"2018-05-30T18:09:18.628Z","url":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fimage.png","type":"image/png","size":5211,"imageWidth":432,"imageHeight":42,"thumbnail":"https://cdn.glitch.com/ce157a30-32b9-4d91-93c9-e3168e11c594%2Fthumbnails%2Fimage.png","thumbnailWidth":330,"thumbnailHeight":33,"dominantColor":null,"uuid":"JD6TMZtGv4u1hVWj"}
+</html>
