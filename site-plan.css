@@ -111,14 +111,16 @@ nav a:hover {
 .sitemap {
   display: grid;
   justify-content: center;
-  
+  grid-column-gap: 1em;
   grid-template-columns: 100px 100px 100px;
-  grid-template-rows: 3em 3em;
+  grid-template-rows: 3em 1.5em 1.5em 3em;
   grid-template-areas: ". home ."
                        "page2 . page3";
 }
 .sitemap > div {
   background-color: #999;
+  text-align: center;
+  line-height: 3em;
 }
 .sm-home {
   grid-area: home;
