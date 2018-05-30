@@ -1,0 +1,20 @@
+:root {
+--primary-color: #396E94;
+}
+
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.colors {
+  min-width: 
+}
+.colors td{
+  width: 25%;
+  height: 3em;
+}
+
+.primary {
+  background-color: var(--primary-color);
+}
