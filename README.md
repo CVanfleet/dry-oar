@@ -11,6 +11,10 @@ Where you'll write the content of your website. You will use this through the wh
 
 CSS files add styling rules to your content
 
+## ← site-plan.html and site-plan.css
+
+Will be used in week 2
+
 ## ← troubleshooting.html
 
 Will be used in week 3
