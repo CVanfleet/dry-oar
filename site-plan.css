@@ -112,22 +112,47 @@ nav a:hover {
   display: grid;
   justify-content: center;
   grid-column-gap: 1em;
-  grid-template-columns: 100px 100px 100px;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
   grid-template-rows: 3em 1.5em 1.5em 3em;
-  grid-template-areas: ". home ."
-                       "page2 . page3";
+  grid-template-areas: ". . home home . ."
+                        ". top top . . ."
+                       ". left left right right ."
+                       "page2 page2 . . page3 page3";
 }
 .sitemap > div {
-  background-color: #999;
+  
   text-align: center;
-  line-height: 3em;
+  
 }
 .sm-home {
   grid-area: home;
+  background-color: #999;
+  line-height: 3em;
 }
 .sm-page2 {
   grid-area: page2;
+  background-color: #999;
+  line-height: 3em;
 }
 .sm-page3 {
   grid-area: page3;
+  background-color: #999;
+  line-height: 3em;
+}
+
+.top {
+  grid-area: top;
+  border-right: 1px solid;
+}
+
+.left {
+  grid-area: left;
+  border-top: 1px solid;
+  border-left: 1px solid;
+}
+
+.right {
+  grid-area: right;
+  border-top: 1px solid;
+  border-right: 1px solid;
 }
