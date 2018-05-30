@@ -11,7 +11,13 @@ Where you'll write the content of your website. You will use this through the wh
 
 CSS files add styling rules to your content
 
+## ← troubleshooting.html
+
+Will be used in week 3
+
 ## ← positioning.html and positionstyle.css
 
-These files will be used later in the semester.  You can ignore them until then (or poke around and see if you can follow what is going on there ;) Just dont's change them until you are instructed!)
+These files will be used later in the semester.  You can ignore them until then (or poke around and see if you can follow what is going on there ;) Just don't change them until you are instructed!)
+
+
 
