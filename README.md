@@ -35,9 +35,8 @@ Here are some good resources and tips from the course in a handy, easy to find l
 * [W3Schools](https://www.w3schools.com ): Great reference for both HTML and CSS
 * [HTML Validator](https://validator.w3.org/#validate_by_input): You can copy/paste your HTML here at anytime to check it for errors.
 * [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input): Copy/paste your CSS here at anytime to check it for errors.
-* [HTML Vocabulary: Review here if any of the HTML terms in the activities don't make sense.
-* CSS Vocabulary: Review here if any of the CSS terms in the activities don't make sense.
-Images1 and Images2
-Provided Content
+* [HTML Vocabulary](https://byui-cit.github.io/wdd130/): Review here if any of the HTML terms in the activities don't make sense.
+* [CSS Vocabulary](https://byui-cit.github.io/wdd130/): Review here if any of the CSS terms in the activities don't make sense.
+* [Images1 and Provided Content](https://byui-cit.github.io/wdd130/)
 
 
