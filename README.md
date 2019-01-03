@@ -1,4 +1,4 @@
-# Welcome to WDD 100 -- Introduction to Web Design and Development
+# Welcome to WDD 130 -- Web Fundamentals
 
 You should use this as a starting point to begin the course.
 
