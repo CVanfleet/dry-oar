@@ -220,3 +220,7 @@
 .hint input[type=checkbox]:checked ~ i:after {
   transform: translate(2px, 0) rotate(-45deg);
 }
+.hint a {
+  position: relative;
+  z-index: 1;
+}
