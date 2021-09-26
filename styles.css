@@ -10,5 +10,11 @@ h2 {
   text-align: center; 
 }
 body {
-  backround-color: rgb
+  background-color: #00a5cf;
+}
+nav a {
+  color: #08415c;
+}
+main {
+  background-color: white;
 }
