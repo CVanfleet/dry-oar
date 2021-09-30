@@ -12,9 +12,12 @@
 /*content fonts */
 
 h1, h2, h3, h4, h5 {
-  background-color: ;
+  background-color: #f9dc5c;
   color: darkblue;
   font-family: var(--heading-font);
+  font-size: 3em;
+  line-height: 2em;
+  margins
 }
 p {
   font-family: var(--paragraph-font);
@@ -29,6 +32,8 @@ a {
 #content {
   max-width: 960px;
   margin: 0 auto;
+  padding: 1em;
+  
 }
 .home-paragraph-3 {
   text-align: center; 
