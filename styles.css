@@ -16,16 +16,14 @@ h1, h2, h3, h4, h5 {
   color: darkblue;
   font-family: var(--heading-font);
   font-size: 3em;
+  font-weight: 700;
   line-height: 2em;
-  margins
+  margin: 10px 0 7px 0;
 }
 p {
   font-family: var(--paragraph-font);
 }
 
-a {
-  font-size: 1.1em;
-}
 
 /*content position and color*/
 
@@ -43,7 +41,9 @@ body {
 }
 nav a {
   color: #08415c;
+  font-size: 1.1em;
 }
 main {
   background-color: lightblue;
+  margin: 10px;
 }
