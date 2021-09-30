@@ -1,7 +1,25 @@
-h2 {
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
+
+
+:root {
+  
+  --heading-font: 'Dosis', sans-serif;
+  --paragraph-font: 'Balsamiq Sans', cursive;
+}
+
+h1, h2, h3, h4, h5 {
   background-color: lightblue;
   color: darkblue;
+  font-family: var(--heading-font);
 }
+p {
+  font-family: var(--paragraph-font);
+}
+
+
+/
 #content {
   max-width: 960px;
   margin: 0 auto;
@@ -16,5 +34,5 @@ nav a {
   color: #08415c;
 }
 main {
-  background-color: white;
+  background-color: lightblue;
 }
