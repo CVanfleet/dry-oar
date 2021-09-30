@@ -9,23 +9,23 @@
   --paragraph-font: 'Balsamiq Sans', cursive;
 }
 
-/*content fonts */
 
-h1, h2, h3, h4, h5 {
+h2 {
   background-color: #f9dc5c;
   color: darkblue;
   font-family: var(--heading-font);
   font-size: 3em;
   font-weight: 700;
   line-height: 2em;
-  margin: 10px 0 7px 0;
+  margin: 0 0 -10px 0;
+  text-align: center;
 }
 p {
   font-family: var(--paragraph-font);
+  text-align: center;
+  
 }
 
-
-/*content position and color*/
 
 #content {
   max-width: 960px;
@@ -47,3 +47,4 @@ main {
   background-color: lightblue;
   margin: 10px;
 }
+
