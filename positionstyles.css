@@ -36,8 +36,7 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   display: grid;
-  grid-template-columns: repeat(5, 50px)
-  grid-template-columns: repeat(5, )
+  grid-template-columns: repeat(5, 50px);
   
   
 }
@@ -49,6 +48,7 @@
 .green2 { 
   width: 100px; 
   height: 100px; 
+  margin-top: calc(50px * 1);
   
   background-color: green; 
 } 
@@ -56,18 +56,24 @@
   width: 100px; 
   height: 100px; 
   background-color: gold; 
+  margin-top: calc(50px * 2);
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  margin-top: calc(50px * 3);
 } 
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
+  display: grid;
+  grid-template-columns: 50% 50%
+  grid-template-rows: 33% 33% 33 %;
+  
 }
 .red3 {
-  width: 100px; 
+  width: 100%; 
   height: 100px; 
   background-color: red; 
 } 
@@ -82,7 +88,7 @@
   background-color: gold; 
 } 
 .blue3 {
-  width: 100px;
+  width: 100%;
   height: 100px; 
   background-color: blue; 
 } 
