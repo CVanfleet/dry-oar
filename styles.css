@@ -48,3 +48,6 @@ main {
   margin: 10px;
 }
 
+a, .copy-right {
+  font-family: '';
+}
