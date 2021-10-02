@@ -7,6 +7,7 @@
   
   --heading-font: 'Dosis', sans-serif;
   --paragraph-font: 'Balsamiq Sans', cursive;
+  --links-font: 'Comic Sans MS', 'Comic Sans', cursive
 }
 
 
@@ -49,5 +50,5 @@ main {
 }
 
 a, .copy-right {
-  font-family: '';
+  font-family: var(--links-font);
 }
