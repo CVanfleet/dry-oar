@@ -138,3 +138,21 @@ img {
 }
 
 /* footer content */
+
+footer{
+  display: grid;
+  height: 55px;
+  grid-template-columns: 80% 20%
+}
+
+.copy-right{
+  grid-column:1/2;
+  grid-row: 1/2;
+  text-align: left;
+}
+
+div .social{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr
+  padding: 0 
+}
