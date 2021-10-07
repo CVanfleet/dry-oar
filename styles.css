@@ -61,12 +61,20 @@ header {
   align-items: center;
   display: grid;
   grid-template-columns: 110px auto;
+  background-color: #f9dc5c;
 }
+
 
 nav ul {
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
+  margin: 0;
+  text-align: center;
+}
+
+nav a:hover{
+  color: red;
 }
 
 
