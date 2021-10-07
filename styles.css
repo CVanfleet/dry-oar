@@ -52,6 +52,12 @@ a, .copy-right {
   text-decoration: none;
 }
 
+.home-left-img, .home-right-img {
+  border: 8px solid darkblue;
+
+  box-shadow: 5px 5px 5px darkblue;
+}
+
 /* action content*/
 
 .banner-box {
@@ -69,18 +75,20 @@ a, .copy-right {
 .action{
   grid-column: 2;
   grid-row: 1;
-  background-color: rgba(240, 240, 240, 0.5);
+  background-color: rgba(173, 216, 230, 0.5);
   margin: 1em 3em;
   padding: 1em;
   text-align: center;
+  font-size: 1.2em;
   font-family: var(--links-font);
+  color: darkblue;
 }
 .action button {
   line-height: 2em;
   width: 10em;
   background-color: red;
   font-size: 1.2em;
-  
+  font-family: var(--links-font);
 }
 
 
