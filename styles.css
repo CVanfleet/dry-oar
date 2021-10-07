@@ -56,6 +56,8 @@ a, .copy-right {
   width: 100%;
 }
 
+.action
+
 /*header content */
 
 header {
@@ -158,7 +160,9 @@ div .social{
 }
 
 @media screen and (max-width: 550px) {
-  .home-grid {
+  .home-grid, nav ul, .banner-box {
     display: block;
   }
 }
+
+
