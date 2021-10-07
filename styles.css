@@ -61,5 +61,11 @@ a, .copy-right {
 
 .home-grid {
   display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%
+  grid-template-columns: repeat(5, 20%)
+  
 }  
+
+.home-headline-1 {
+  grid-column: 1/4;
+  grid-row: 1/2;
+}
