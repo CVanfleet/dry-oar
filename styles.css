@@ -55,13 +55,28 @@ a, .copy-right {
   width: 100%;
 }
 
+/*header content */
+
+header {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 110px auto;
+}
+
+nav ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
+}
+
+
 /* main content */
 
 .home-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr)
-  grid-column-gap: 10px;
-  grid-row-gap: 10px
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
   
   
 }  
