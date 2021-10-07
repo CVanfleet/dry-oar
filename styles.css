@@ -49,6 +49,7 @@ main {
 
 a, .copy-right {
   font-family: var(--links-font);
+  text-decoration: none;
 }
 
 .banner-box img {
@@ -75,6 +76,7 @@ nav ul {
 
 nav a:hover{
   color: red;
+  text-decoration: underline;
 }
 
 
@@ -134,3 +136,5 @@ img {
   grid-row: 7/8;
   text-align: center;
 }
+
+/* footer content */
