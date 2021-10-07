@@ -143,6 +143,7 @@ footer{
   display: grid;
   height: 55px;
   grid-template-columns: 80% 20%
+      
 }
 
 .copy-right{
@@ -154,5 +155,4 @@ footer{
 div .social{
   display:grid;
   grid-template-columns: 1fr 1fr 1fr
-  padding: 0 
-}
+  
