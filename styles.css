@@ -52,3 +52,14 @@ main {
 a, .copy-right {
   font-family: var(--links-font);
 }
+
+.banner-box img {
+  width: 100%;
+}
+
+/* main content */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%
+}  
