@@ -23,7 +23,8 @@ h2 {
 }
 p {
   font-family: var(--paragraph-font);
-  text-align: center;
+  text-align: left;
+  font-size: 16pt;
   
 }
 
@@ -33,9 +34,6 @@ p {
   margin: 0 auto;
   padding: 1em;
   
-}
-.home-paragraph-3 {
-  text-align: center; 
 }
 body {
   background-color: #00a5cf;
@@ -73,6 +71,7 @@ a, .copy-right {
 .home-paragraph-1 {
   grid-column: 2/4;
   grid-row: 2/4;
+  text-align: left;
 }
 
 img {
@@ -97,9 +96,11 @@ img {
 .home-paragraph-2 {
   grid-column: 4/6;
   grid-row: 5/7;
+  text-align: left;
 }
 
-.home-paragraph-3 {
+.home-paragraph-3, p {
   grid-column: 1/6;
   grid-row: 7/8;
+  text-align: center;
 }
