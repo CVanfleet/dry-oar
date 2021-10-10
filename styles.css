@@ -208,6 +208,10 @@ div .social{
 
 /* Locations page */
 
+.locations-main {
+  display: grid;
+}
+
 .utah-section {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -215,8 +219,50 @@ div .social{
 
 .utah-headline {
   grid-column: 2/3;
+  grid-row: 1/2;
 }
 
 .provo-heading {
-  grid-column: 1
+  grid-column: 1/2;
+  grid-row: 2/3
+}
+
+.provo-picture {
+  grid-column: 1/2;
+  grid-row: 3/4;
+}
+
+.provo-link {
+  grid-column: 1/2;
+  grid-row: 4/5
+}
+
+.marysvale-heading {
+  grid-column: 2/3;
+  grid-row: 2/3
+}
+
+.marysvale-picture {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+
+.marysvale-link {
+  grid-column: 3/4;
+  grid-row: 4/5;
+}
+
+.green-heading {
+  grid-column: 3/4;
+  grid-row: 2/3
+}
+
+.green-picture {
+  grid-column: 3/4;
+  grid-row: 3/4;
+}
+
+.green-link {
+  grid-column: 3/4;
+  grid-row: 4/5;
 }
