@@ -40,8 +40,8 @@ a:hover, .locations-link {
   text-decoration: underline;
 }
 
-.provo-picture, .marysvale-picture, .green-picture, {
-  border: 8px solid darkblue;
+.provo-picture, .marysvale-picture, .green-picture, .colorado-picture, .arkansas-picture, .yampa-picture{
+  border: 1px solid black;
 
   box-shadow: 5px 5px 5px darkblue;
 }
