@@ -146,6 +146,7 @@ nav a:hover{
 
 img {
   width: 100%;
+  height: 100%
 }
 
 .home-right-img {
@@ -281,7 +282,7 @@ div .social{
 
 .salmon-heading {
   grid-column: 2/3;
-  grid-row: 2/3
+  grid-row: 2/3;
 }
 
 .salmon-picture {
@@ -292,48 +293,6 @@ div .social{
 .salmon-link {
   grid-column: 2/3;
   grid-row: 4/5;
-  text-align: right;
+  
 }
   
-.colorado-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding: 10px;
-  grid-column-gap: 1em;
-  grid-row-gap: 1em;
-}
-
-.colorado-headline {
-  grid-column: 1/-1;
-  grid-row: 1/2;
-}
-
-.colorado-heading {
-  grid-column: 1/2;
-  grid-row: 2/3
-}
-
-.colorado-picture {
-  grid-column: 1/2;
-  grid-row: 3/4;
-}
-
-.colorado-link {
-  grid-column: 1/2;
-  grid-row: 4/5
-}
-
-.arkansas-heading {
-  grid-column: 2/3;
-  grid-row: 2/3
-}
-
-.arkansas-picture {
-  grid-column: 2/3;
-  grid-row: 3/4;
-}
-
-.arkansas-link {
-  grid-column: 2/3;
-  grid-row: 4/5;
-}
