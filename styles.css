@@ -206,3 +206,17 @@ div .social{
 }
 
 
+/* Locations page */
+
+.utah-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.utah-headline {
+  grid-column: 2/3;
+}
+
+.provo-heading {
+  grid-column: 1
+}
