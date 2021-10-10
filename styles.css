@@ -146,7 +146,7 @@ nav a:hover{
 
 img {
   width: 100%;
-  
+  height: 100%
 }
 
 .home-right-img {
@@ -209,17 +209,16 @@ div .social{
 
 /* Locations page */
 
-.locations-main {
-  display: grid;
-}
-
 .utah-section {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
 }
 
 .utah-headline {
-  grid-column: 2/3;
+  grid-column: 1/-1;
   grid-row: 1/2;
 }
 
@@ -251,7 +250,7 @@ div .social{
 .marysvale-link {
   grid-column: 2/3;
   grid-row: 4/5;
-  text-align: center;
+  text-align: right;
 }
 
 .green-heading {
@@ -267,4 +266,33 @@ div .social{
 .green-link {
   grid-column: 3/4;
   grid-row: 4/5;
+}
+
+
+.idaho-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+}
+
+.idaho-headline {
+  grid-column: 1/-1;
+  grid-row: 1/2;
+
+.salmon-heading {
+  grid-column: 2/3;
+  grid-row: 2/3
+}
+
+.salmon-picture {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+
+.salmon-link {
+  grid-column: 2/3;
+  grid-row: 4/5;
+  text-align: right;
 }
