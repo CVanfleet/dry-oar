@@ -29,6 +29,23 @@ h3 {
   text-align: center;
 }
 
+a, .locations-link {
+  text-align: center;
+  color: #08415c;
+  font-size: 1.1em;
+}
+
+a:hover, .locations-link {
+  color: orange;
+  text-decoration: underline;
+}
+
+.provo-picture, .marysvale-picture, .green-picture, {
+  border: 8px solid darkblue;
+
+  box-shadow: 5px 5px 5px darkblue;
+}
+
 p {
   font-family: var(--paragraph-font);
   text-align: left;
