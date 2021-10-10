@@ -21,6 +21,14 @@ h2 {
   margin: 10px 0 10px 0;
   text-align: center;
 }
+
+h3 {
+  color: darkblue;
+  font-family: var(--heading-font);
+  font-size: 2em;
+  text-align: center;
+}
+
 p {
   font-family: var(--paragraph-font);
   text-align: left;
@@ -267,8 +275,7 @@ div .social{
   grid-row: 4/5;
 }
 
-
-.idaho-section {
+.colorado-section {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding: 10px;
@@ -276,23 +283,56 @@ div .social{
   grid-row-gap: 1em;
 }
 
-.idaho-headline {
+.colorado-headline {
   grid-column: 1/-1;
   grid-row: 1/2;
-
-.salmon-heading {
-  grid-column: 2/3;
-  grid-row: 2/3;
 }
 
-.salmon-picture {
+.colorado-heading {
+  grid-column: 1/2;
+  grid-row: 2/3
+}
+
+.colorado-picture {
+  grid-column: 1/2;
+  grid-row: 3/4;
+}
+
+.colorado-link {
+  grid-column: 1/2;
+  grid-row: 4/5
+}
+
+.arkansas-heading {
+  grid-column: 2/3;
+  grid-row: 2/3
+}
+
+.arkansas-picture {
   grid-column: 2/3;
   grid-row: 3/4;
 }
 
-.salmon-link {
+.arkansas-link {
   grid-column: 2/3;
   grid-row: 4/5;
-  
 }
+
+.yampa-heading {
+  grid-column: 3/4;
+  grid-row: 2/3
+}
+
+.yampa-picture {
+  grid-column: 3/4;
+  grid-row: 3/4;
+}
+
+.yampa-link {
+  grid-column: 3/4;
+  grid-row: 4/5;
+}
+
+
+
   
