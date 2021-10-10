@@ -50,6 +50,7 @@ main {
 a, .copy-right {
   font-family: var(--links-font);
   text-decoration: none;
+  color: #08415c;
 }
 .copy-right {
   font-size: 12pt;
@@ -248,8 +249,9 @@ div .social{
 }
 
 .marysvale-link {
-  grid-column: 3/4;
+  grid-column: 2/3;
   grid-row: 4/5;
+  text-align: center;
 }
 
 .green-heading {
